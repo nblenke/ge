@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: http://www.galacticendeavor.online/sitemap.xml
