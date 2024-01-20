@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.b403d0b9.chunk.css",
-    "main.js": "/static/js/main.78592a66.chunk.js",
-    "main.js.map": "/static/js/main.78592a66.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.a26beaf4.js",
-    "runtime-main.js.map": "/static/js/runtime-main.a26beaf4.js.map",
-    "static/js/2.55e00b3f.chunk.js": "/static/js/2.55e00b3f.chunk.js",
-    "static/js/2.55e00b3f.chunk.js.map": "/static/js/2.55e00b3f.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.b403d0b9.chunk.css.map": "/static/css/main.b403d0b9.chunk.css.map",
-    "static/js/2.55e00b3f.chunk.js.LICENSE.txt": "/static/js/2.55e00b3f.chunk.js.LICENSE.txt",
-    "static/media/landing.css": "/static/media/masthead-bg.6c31df23.png",
-    "static/media/bottom.d101fe30.png": "/static/media/bottom.d101fe30.png",
-    "static/media/logo.9382a034.png": "/static/media/logo.9382a034.png",
-    "static/media/masthead-logo.af3e9d20.png": "/static/media/masthead-logo.af3e9d20.png",
-    "static/media/planet-2.0ada9ece.png": "/static/media/planet-2.0ada9ece.png",
-    "static/media/sunrise.1a806da2.png": "/static/media/sunrise.1a806da2.png",
-    "static/media/page.css": "/static/media/top.f6a482db.png"
+    "main.css": "/ge/static/css/main.4e7b17cf.chunk.css",
+    "main.js": "/ge/static/js/main.502e46a7.chunk.js",
+    "main.js.map": "/ge/static/js/main.502e46a7.chunk.js.map",
+    "runtime-main.js": "/ge/static/js/runtime-main.2d59b65c.js",
+    "runtime-main.js.map": "/ge/static/js/runtime-main.2d59b65c.js.map",
+    "static/js/2.55e00b3f.chunk.js": "/ge/static/js/2.55e00b3f.chunk.js",
+    "static/js/2.55e00b3f.chunk.js.map": "/ge/static/js/2.55e00b3f.chunk.js.map",
+    "index.html": "/ge/index.html",
+    "static/css/main.4e7b17cf.chunk.css.map": "/ge/static/css/main.4e7b17cf.chunk.css.map",
+    "static/js/2.55e00b3f.chunk.js.LICENSE.txt": "/ge/static/js/2.55e00b3f.chunk.js.LICENSE.txt",
+    "static/media/landing.css": "/ge/static/media/masthead-bg.6c31df23.png",
+    "static/media/bottom.d101fe30.png": "/ge/static/media/bottom.d101fe30.png",
+    "static/media/logo.9382a034.png": "/ge/static/media/logo.9382a034.png",
+    "static/media/masthead-logo.af3e9d20.png": "/ge/static/media/masthead-logo.af3e9d20.png",
+    "static/media/planet-2.0ada9ece.png": "/ge/static/media/planet-2.0ada9ece.png",
+    "static/media/sunrise.1a806da2.png": "/ge/static/media/sunrise.1a806da2.png",
+    "static/media/page.css": "/ge/static/media/top.f6a482db.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.a26beaf4.js",
+    "static/js/runtime-main.2d59b65c.js",
     "static/js/2.55e00b3f.chunk.js",
-    "static/css/main.b403d0b9.chunk.css",
-    "static/js/main.78592a66.chunk.js"
+    "static/css/main.4e7b17cf.chunk.css",
+    "static/js/main.502e46a7.chunk.js"
   ]
 }
